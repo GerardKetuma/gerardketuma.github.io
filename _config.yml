@@ -4,7 +4,7 @@
 
 url: http://gerardketuma.github.io
 title: Gerard Ketuma
-subtitle: a developer and entrepreneur in Southern Illinois
+subtitle: developer/consultant in Southern Illinois
 author: Gerard Ketuma
 simple_search: https://www.google.com/search
 description: Gerard Ketuma's blog on recent and related articles in web development and independent consulting.
@@ -12,7 +12,7 @@ email: me@gerardketuma.com
 learn_more_link: http://gerardketuma.com
 keywords: ruby, rails, Javascript, AngularJS, Backbone, html, css
 avatar: /images/gerardketuma.png
-author_bio: Fullstack Web Developer - Ruby, Rails, Javascript, HTML/CSS, PHP, Drupal 6/7, AngularJS, BackboneJS
+author_bio: Fullstack Web Developer - Ruby, Rails, Javascript, HTML/CSS, PHP, Drupal, AngularJS, BackboneJS
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
