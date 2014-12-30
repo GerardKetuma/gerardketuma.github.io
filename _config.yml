@@ -3,11 +3,24 @@
 # ----------------------- #
 
 url: http://gerardketuma.github.io
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+title: Gerard Ketuma
+subtitle: a developer and entrepreneur in Southern Illinois
+author: Gerard Ketuma
 simple_search: https://www.google.com/search
-description:
+description: Gerard Ketuma's blog on recent and related articles in web development and independent consulting.
+email: me@gerardketuma.com
+learn_more_link:
+  url: http://gerardketuma.com
+  external: true
+keywords: ruby, rails, Javascript, AngularJS, Backbone, html, css
+avatar: /images/gerardketuma.png
+author_bio: Fullstack Web Developer - Ruby, Rails, Javascript, HTML/CSS, PHP, Drupal 6/7, AngularJS, BackboneJS
+links:
+  - title: Test 1
+    url: /test1
+  - title: Test 2
+    url: /test2
+background: /images/desktouch.jpg
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
@@ -64,13 +77,13 @@ default_asides: [asides/recent_posts.html, asides/github.html, asides/delicious.
 # ----------------------- #
 
 # Github repositories
-github_user:
+github_user: gerardketuma
 github_repo_count: 0
 github_show_profile_link: true
 github_skip_forks: true
 
 # Twitter
-twitter_user:
+twitter_user: gerard_ketuma
 twitter_tweet_button: true
 
 # Google +1
