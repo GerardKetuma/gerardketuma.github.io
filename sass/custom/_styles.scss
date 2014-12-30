@@ -1,2 +1,18 @@
 // This File is imported last, and will override other styles in the cascade
 // Add styles here to make changes without digging in too much
+.dl-menuwrapper button {
+    background-color: $site-blue;
+}
+.dl-menuwrapper button:hover, .dl-menuwrapper button.dl-active, .dl-menuwrapper ul {
+    background-color: $site-blue;
+}
+.btn {
+    border-radius: 30px;
+    background-color: inherit;
+}
+a.btn:visited {
+    color: $site-blue;
+}
+.entry-meta .tag {
+    background-color: $site-blue;
+}

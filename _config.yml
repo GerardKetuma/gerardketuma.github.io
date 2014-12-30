@@ -9,18 +9,10 @@ author: Gerard Ketuma
 simple_search: https://www.google.com/search
 description: Gerard Ketuma's blog on recent and related articles in web development and independent consulting.
 email: me@gerardketuma.com
-learn_more_link:
-  url: http://gerardketuma.com
-  external: true
+learn_more_link: http://gerardketuma.com
 keywords: ruby, rails, Javascript, AngularJS, Backbone, html, css
 avatar: /images/gerardketuma.png
 author_bio: Fullstack Web Developer - Ruby, Rails, Javascript, HTML/CSS, PHP, Drupal 6/7, AngularJS, BackboneJS
-links:
-  - title: Test 1
-    url: /test1
-  - title: Test 2
-    url: /test2
-background: /images/desktouch.jpg
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
