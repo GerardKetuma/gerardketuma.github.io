@@ -9,10 +9,6 @@ image:
   feature: /images/desktouch.jpg
 share: true
 ---
-
-Here we go
-=========
-
 Lorem ipsum dolor sit amet, eos an vitae facete. Id meis docendi pertinacia mei, ut vim aeque minimum tincidunt. Mucius civibus cu his. Eu possim convenire vel, iudico vocent impetus an per, pertinax perpetua in vim. In eirmod singulis periculis nam, quo soluta officiis no, ad vix quidam senserit. Vix viderer voluptaria ex, has cu cotidieque accommodare, cum vidit mollis ex.
 
 <!-- more -->
